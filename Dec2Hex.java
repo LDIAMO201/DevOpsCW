@@ -35,5 +35,6 @@ class Dec2Hex
         
         System.out.println("Hexadecimal representation is : " + hexadecimal);
 	System.out.println("New line added to file - line edited***");
+	System.out.println("Merge testing addition");
     }
 }
