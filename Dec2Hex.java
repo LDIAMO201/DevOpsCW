@@ -37,5 +37,6 @@ class Dec2Hex
 	System.out.println("New line added to file - line edited***");
 	System.out.println("Merge testing addition");
 	System.out.println("Testing SonarQube");
+	System.out.println("Testing sonarqube 2");
     }
 }
