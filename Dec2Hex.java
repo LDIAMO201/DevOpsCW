@@ -38,5 +38,6 @@ class Dec2Hex
 	System.out.println("Merge testing addition");
 	System.out.println("Testing SonarQube");
 	System.out.println("Testing sonarqube 2");
+	System.out.println("1");
     }
 }
